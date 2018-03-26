@@ -1,10 +1,7 @@
-¡¡¡¡---
-¡¡¡¡layout: default
-¡¡¡¡title: ÄãºÃ£¬ÊÀ½ç
-¡¡¡¡---
-
-¡¡¡¡<h2>{{ page.title }}</h2>
-
-¡¡¡¡<p>ÎÒµÄµÚÒ»ÆªÎÄÕÂ</p>
-
-¡¡¡¡<p>{{ page.date | date_to_string }}</p>
+---
+layout: default
+title: ä½ å¥½ï¼Œä¸–ç•Œ
+---
+<h2>{{ page.title }}</h2>
+ã€€<p>æˆ‘çš„ç¬¬ä¸€ç¯‡æ–‡ç« </p>
+ã€€<p>{{ page.date | date_to_string }}</p>

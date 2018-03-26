@@ -51,3 +51,5 @@ baseurl: /jekyll-blog
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
+
+theme: jekyll-theme-minimal
